@@ -1,0 +1,45 @@
+body {
+    font-family: arial, helvetica, arial;
+    font-size: 16px;
+    color: blue;
+    background-color: #ccf;
+    margin: 10px;
+    padding: 0;
+}
+p {
+    line-height: 21px;
+}
+
+h1 {
+    color: #ffc;
+    background-color: #900;
+    font-size: 2em;
+    margin: 0;
+    margin-bottom: 7px;
+    padding: 4px;
+    font-style: italic;
+    text-align: center;
+    letter-spacing: 0.5em;
+    border-bottom-style: solid;
+    border-bottom-width: 0.5em;
+    border-bottom-color: #c00;
+}
+
+
+a {
+    text-decoration: none;
+}
+
+strong {
+    font-style: italic;
+    text-transform: uppercase;
+}
+
+li {
+    color: #900;
+    font-style: italic;
+}
+
+table {
+    background-color: #cff;
+}
